@@ -47,7 +47,7 @@ class StartMenu extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#DCD6F7",
+    backgroundColor: "#FFFFFF",
     alignItems: "center",
     justifyContent: "center",
   },
@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
   button: {
     backgroundColor: "#B4869F",
     padding: 5,
-    borderRadius: 10,
+    borderRadius: 30,
     fontSize: 20,
   },
   title: {

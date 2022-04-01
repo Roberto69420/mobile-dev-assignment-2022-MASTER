@@ -156,7 +156,7 @@ const SignUp = (props) => {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: "#DCD6F7",
+    backgroundColor: "#FFFFFF",
     alignItems: "center",
     justifyContent: "center",
     flex: 1,
@@ -165,7 +165,7 @@ const styles = StyleSheet.create({
   button: {
     backgroundColor: "#B4869F",
     padding: 5,
-    borderRadius: 10,
+    borderRadius: 20,
     fontSize: 20,
   },
 
